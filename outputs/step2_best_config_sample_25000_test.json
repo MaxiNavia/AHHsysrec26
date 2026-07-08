@@ -1,0 +1,12 @@
+{
+  "name": "smin0.15_sspan0.7_h0.2",
+  "seq_min": 0.15,
+  "seq_span": 0.7,
+  "cat_base": 0.55,
+  "cat_drop": 0.3,
+  "hier_max": 0.2,
+  "hier_power": 1.0,
+  "pop": 0.05,
+  "transition_mix": 0.75,
+  "use_hierarchy": true
+}
